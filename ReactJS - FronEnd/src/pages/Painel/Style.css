@@ -1,0 +1,13 @@
+table{
+    border: 5px solid black;
+    width: 800px;
+    text-align: center;
+    background-color: rgb(209, 224, 224);
+
+}
+table th {
+    border: 1px solid rgb(206, 206, 206);
+}
+table td{
+    border: 1px solid rgb(182, 177, 177);
+}

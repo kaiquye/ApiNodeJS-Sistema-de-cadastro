@@ -1,0 +1,14 @@
+.telaLogin{
+    margin-top: 20%;
+}
+
+body{
+
+    width: 99%;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}

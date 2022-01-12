@@ -1,0 +1,63 @@
+.Formulario{
+    padding-top: 11px;
+    display: flex;  
+    flex-direction: column;
+    width: 500px;
+    box-shadow:  -1px 1px 30px 5px white, -1px 1px 30px 5px rgb(233, 233, 233);
+    height: 100%;
+    
+    border-radius: 25px;
+    text-decoration: none;  
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(146, 139, 139);
+    background-color: rgb(202, 202, 202);
+}
+.Formulario  div{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin: 1%;
+    width: 100%;
+
+}
+.Formulario label{
+    width: 30%;
+}
+.Formulario input {
+    width: 63%;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: white;
+    border: none;
+    text-align: center;
+}
+button{
+    width: 100PX;
+    margin-top: 10px;
+    font-size: 12px;
+    text-decoration: none;
+    border: none;
+    padding: 10px;
+    background-color: rgb(219, 219, 219);
+    color: rgb(124, 109, 109);
+    margin-bottom: 8px;
+}
+button:hover{
+    cursor: pointer;
+    background-color: white;
+    border: 1px solid rgb(185, 185, 185);
+}
+h1{
+    font-size: 20px;
+    text-align: center;
+}
+.linkRouter{
+    color: rgb(83, 87, 90);
+    text-decoration: none;
+}
+.divButton{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
